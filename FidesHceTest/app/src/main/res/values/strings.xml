@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fides.Hce.Test</string>
+    <string name="service_desc">Služba HCE FIDES</string>
+    <string name="aid_desc">AID skupina FIDES</string>
+</resources>
